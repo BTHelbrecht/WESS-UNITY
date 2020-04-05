@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30da37b1208945b44a9addc88c620b67, type: 3}
   m_Name: Doug
   m_EditorClassIdentifier: 
-  testText: 
+  testText: I like Pie.
